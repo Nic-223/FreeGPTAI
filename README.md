@@ -32,7 +32,7 @@ To get started with FreeGPTAI, follow these simple steps:
   
   if __name__ == "__main__":
       import asyncio
-      asyncio.run(main())
+      asyncio.run(main())```
 
 3. **Explore Additional Configuration:**
    FreeGPTAI allows you to configure various parameters such as headers and URL. Check the documentation for details on advanced usage.
