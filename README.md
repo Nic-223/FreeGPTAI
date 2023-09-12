@@ -7,7 +7,7 @@
 You can install **FreeGPTAI** using `pip`:
 
 ```bash
-pip install freegptai
+pip install FreeGPTAI
  ```
 
 
