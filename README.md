@@ -24,13 +24,13 @@ To get started with FreeGPTAI, follow these simple steps:
    ```python
    from freegptai import Completion
 
-  async def main():
+   async def main():
       completion = Completion()
       prompt = "Tell me a joke."
       generated_text = await completion.create(prompt)
       print(generated_text)
-  
-  if __name__ == "__main__":
+   
+   if __name__ == "__main__":
       import asyncio
       asyncio.run(main())```
 
